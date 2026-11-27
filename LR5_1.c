@@ -7,7 +7,7 @@
 //	SetConsoleOutputCP(1251);
 //	int arr[20], min, max;
 //	int S = 0;
-//	printf("¬вед≥ть м≥н≥мум д≥апазону: ");;
+//	printf("¬вед≥ть м≥н≥мум д≥апазону:                     ");;
 //	scanf_s("%d", &min);
 //	printf("¬вед≥ть максимум д≥апазону: ");;
 //	scanf_s("%d", &max);
